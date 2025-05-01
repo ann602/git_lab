@@ -1,0 +1,14 @@
+C:\Users\777\source\repos\git_lab\git_lab\bin\Debug\net8.0\git_lab.exe
+C:\Users\777\source\repos\git_lab\git_lab\bin\Debug\net8.0\git_lab.deps.json
+C:\Users\777\source\repos\git_lab\git_lab\bin\Debug\net8.0\git_lab.runtimeconfig.json
+C:\Users\777\source\repos\git_lab\git_lab\bin\Debug\net8.0\git_lab.dll
+C:\Users\777\source\repos\git_lab\git_lab\bin\Debug\net8.0\git_lab.pdb
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.AssemblyInfo.cs
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.dll
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\refint\git_lab.dll
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.pdb
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\git_lab.genruntimeconfig.cache
+C:\Users\777\source\repos\git_lab\git_lab\obj\Debug\net8.0\ref\git_lab.dll

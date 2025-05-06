@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\777\\source\\repos\\git_lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\777\\source\\repos\\git_lab\\New.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:New.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EA3CD04-851C-4B40-BB83-7431DFE3502A}|git_lab\\git_lab.csproj|c:\\users\\777\\source\\repos\\git_lab\\git_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA3CD04-851C-4B40-BB83-7431DFE3502A}|git_lab\\git_lab.csproj|solutionrelative:git_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "New.md",
+              "DocumentMoniker": "C:\\Users\\777\\source\\repos\\git_lab\\New.md",
+              "RelativeDocumentMoniker": "New.md",
+              "ToolTip": "C:\\Users\\777\\source\\repos\\git_lab\\New.md",
+              "RelativeToolTip": "New.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-06T15:33:30.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\777\\source\\repos\\git_lab\\git_lab\\Program.cs",
               "RelativeDocumentMoniker": "git_lab\\Program.cs",
               "ToolTip": "C:\\Users\\777\\source\\repos\\git_lab\\git_lab\\Program.cs",
               "RelativeToolTip": "git_lab\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T17:55:52.237Z",
               "EditorCaption": ""

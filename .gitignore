@@ -1,1 +1,40 @@
 error.txt
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.vssscc
+*.cache
+*.pdb
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider
+.idea/
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Others
+*.dbmdl
+*.bak
+*.tmp
+*.log
+*.orig
